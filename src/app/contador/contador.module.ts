@@ -12,7 +12,7 @@ import { ContadorComponent } from './contador/contador.component';
     CommonModule
   ],
   exports: [
-    ContadorComponent
+    ContadorComponent 
   ]
 })
 export class ContadorModule { }
